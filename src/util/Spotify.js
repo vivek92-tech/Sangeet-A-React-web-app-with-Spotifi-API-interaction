@@ -1,4 +1,4 @@
-const clientId = 'dee5da08f5844e85810d59934bed4e86'; // Insert client ID here.
+const clientId = ''; // Insert client ID here.
 const redirectUri = 'http://localhost:3000//callback/'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
