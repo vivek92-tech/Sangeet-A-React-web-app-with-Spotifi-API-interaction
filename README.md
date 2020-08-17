@@ -29,7 +29,8 @@ A React web application,
  4. Then create an app on the Spotify Dashboard and obtain client ID
  5.  Now save your Client ID into src/util/Spotify.js file on the top `clientId` variable.
  6.  On the same location, second line from the top, copy `redirectUri` value and save it to your Spotify-account's-app's-edit-setting's-Redirect URIs value, that you have created earlier on step 4.
- 7. Now run `npm run start`
+ 7. Now run `npm run start` and open `http://localhost:3000//callback/`
+ 
   
  
  
